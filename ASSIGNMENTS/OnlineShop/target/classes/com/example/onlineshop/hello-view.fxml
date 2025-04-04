@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="660.0" prefWidth="486.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="84.0" layoutY="577.0" stroke="BLACK" strokeType="INSIDE" width="486.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="335.0" layoutX="407.0" layoutY="-1.0" stroke="BLACK" strokeType="INSIDE" width="80.0" />
+      <Label layoutX="327.0" layoutY="637.0" prefHeight="17.0" prefWidth="61.0" text="1000PHP">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="335.0" layoutY="-1.0" stroke="BLACK" strokeType="INSIDE" width="80.0" />
+      <ImageView fitHeight="280.0" fitWidth="290.0" layoutX="128.0" layoutY="34.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Image12.jpg" />
+         </image></ImageView>
+      <Button layoutX="112.0" layoutY="590.0" mnemonicParsing="false" prefHeight="56.0" prefWidth="100.0" text="Add To Cart" />
+      <Button layoutX="6.0" layoutY="590.0" mnemonicParsing="false" prefHeight="56.0" prefWidth="100.0" text="Chat Now" />
+      <Button layoutX="230.0" layoutY="590.0" mnemonicParsing="false" prefHeight="56.0" prefWidth="242.0" text="Buy with Voucher">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <TextArea layoutX="12.0" layoutY="421.0" prefHeight="141.0" prefWidth="462.0" text="This is a new, unopened item.&#10;Welcome to our product page! We are proud to ship all items directly from Japan. Please note that delivery may take 2 to 3 weeks, so we kindly ask for your understanding in advance.&#10;&#10;**Content:** In the early 1980s, a style of car modification known as &quot;kaido racer&quot; became extremely popular among young car enthusiasts in Japan. The basic theory involved modifying cars to resemble race cars that had been altered for exclusive circuit racing; these modifications primarily focused on changes to the engine and exterior. At that time, it was difficult to legally modify cars, so these modifications were often considered illegal, giving them a rebellious image. Among the kaido racers, particularly popular were thick tires and wheels designed for race cars, along with overfenders that covered them. In the 2000s, Aichi Prefecture's Liberty Walk introduced a style that combined these old-school modification techniques with modern supercars and sports cars, gaining worldwide recognition. The 35GT-RR is heavily customized with silhouette-style fenders inspired by the internationally popular Group 5 regulations set by the FIA in the 1980s, losing its original form in the process.&#10;&#10;**Country of Origin:** Malaysia  &#10;**Recommended Age:** 3 years and up  &#10;**Note:** The back of the blister card is packaged in Japanese.  &#10;**Perfect for Gifts:** This makes an ideal present for occasions such as birthdays, Christmas, or celebrations for entering school.&#10;&#10;Our Japanese customers also highly praise us for our quality, reliability, and attention to detail. These accolades are a testament to the satisfaction our services bring to many customers.&#10;&#10;【Direct from japan】&#10;【All products in our store are genuine products】" />
+      <Label layoutX="325.0" layoutY="628.0" prefHeight="17.0" prefWidth="61.0" text="1000PHP">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="12.0" layoutY="323.0" prefHeight="56.0" prefWidth="462.0" text="Hotwheels Limited Edition ONLY 5 LEFT IN THE WORLD!!!!">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+      <Label layoutX="12.0" layoutY="365.0" prefHeight="56.0" prefWidth="462.0" text="₱100 - ₱500 ">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="368.0" layoutY="297.0" text="1/5" />
+   </children>
+</AnchorPane>

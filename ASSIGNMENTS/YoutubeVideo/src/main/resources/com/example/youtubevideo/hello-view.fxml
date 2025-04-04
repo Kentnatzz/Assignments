@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="484.0" prefWidth="754.0" style="-fx-background-color: Black;" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="286.0" fitWidth="620.0" layoutX="14.0" layoutY="54.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@1.png" />
+         </image></ImageView>
+      <ImageView fitHeight="84.0" fitWidth="156.0" layoutX="547.0" layoutY="363.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@8.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="113.0" fitWidth="150.0" layoutX="547.0" layoutY="259.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@7.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="104.0" fitWidth="149.0" layoutX="553.0" layoutY="54.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@9.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="98.0" fitWidth="150.0" layoutX="547.0" layoutY="158.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@4.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="53.0" fitWidth="168.0" layoutX="14.0" layoutY="342.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@15.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="62.0" fitWidth="79.0" layoutX="134.0" layoutY="3.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@17-removebg-preview.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="464.0" layoutY="359.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="62.0" style="-fx-background-radius: 20;" text="Dislike" />
+      <Button layoutX="373.0" layoutY="359.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="62.0" style="-fx-background-radius: 20;" text="Like" />
+      <Button layoutX="49.0" layoutY="371.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="79.0" style="-fx-background-radius: 20; -fx-background-color: Red;" text="Subscribe" />
+      <TextField layoutX="209.0" layoutY="21.0" prefHeight="25.0" prefWidth="391.0" style="-fx-background-radius: 20;" />
+      <ScrollBar layoutX="733.0" layoutY="9.0" orientation="VERTICAL" prefHeight="469.0" prefWidth="14.0" />
+      <Label layoutX="220.0" layoutY="24.0" prefHeight="17.0" prefWidth="79.0" text="Search" />
+      <TextArea layoutX="15.0" layoutY="407.0" prefHeight="73.0" prefWidth="512.0" text="960,723 views  Aug 2, 2024  #DSG #DisguisedToast #OfflineTV&#10;#ad Don’t miss the new Deadpool and Wolverine themed mode and limited login rewards in MARVEL SNAP! Use my link to download the game and play! https://www.inflcr.co/SHKbX&#10;&#10;Support DSG on Patreon ►   / disguised  &#10;Join the DSG Discord ►   / discord  &#10;&#10;0:00 intro&#10;0:30 Thank you Marvel Snap for sponsoring this video&#10;1:29 the Witch&#10;&#10;Watch me Live on Twitch! ►   / disguisedtoast  &#10;Follow on Instagram! ►   / disguisedtoast  &#10;Follow on Twitter! ►   / disguisedtoast  &#10;Like on Facebook! ►   / disguisedtoast  &#10;&#10;Outro Track ► &quot;French Toast&quot; by Drew.0 (   / drew0  , co-written and produced by Steven Tran (  / snk_tran   )&#10;&#10;#DisguisedToast #OfflineTV #DSG&#10;" />
+   </children>
+</AnchorPane>
